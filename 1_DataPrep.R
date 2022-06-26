@@ -1,6 +1,3 @@
-#### NOTE go through and remove all the intermediate write.csvs
-# replace file names with final archived data
-
 ## Code accompanying: Population demography maintains biogeographic boundaries (2022)
 
 # 1 - Data preparation #
